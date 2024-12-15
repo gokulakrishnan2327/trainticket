@@ -1,0 +1,38 @@
+{
+  "locations": [
+    "Chennai",
+    "Chengalpattu",
+    "Chengam",
+    "Chennimalai",
+    "Kanpur",
+    "New Delhi"
+  ],
+  "trains": [
+    {
+      "trainNumber": "12034",
+      "trainName": "Ndls Cnb Sht",
+      "departureTime": "3:50 PM",
+      "arrivalTime": "8:50 PM",
+      "duration": "5h 0m",
+      "classes": {
+        "CC": { "price": 1055, "availability": 459 },
+        "EC": { "price": 2080, "availability": 19 },
+        "2A": { "price": 1590, "availability": 32 },
+        "SL": { "price": 425, "availability": 54 }
+      }
+    },
+    {
+      "trainNumber": "12802",
+      "trainName": "Purushottam Exp",
+      "departureTime": "10:40 PM",
+      "arrivalTime": "4:00 AM",
+      "duration": "5h 20m",
+      "classes": {
+        "2A": { "price": 1590, "availability": 32 },
+        "SL": { "price": 425, "availability": 54 },
+        "CC": { "price": 1055, "availability": 459 },
+        "EC": { "price": 2080, "availability": 19 }
+      }
+    }
+  ]
+}
